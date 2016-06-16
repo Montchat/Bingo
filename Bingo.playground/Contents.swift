@@ -128,11 +128,13 @@ class BingoCard {
             
         }
         
+        swap(&n.1[0], &n.1[2]) 
+        
         grid.append(b)
         grid.append(i)
         grid.append(n)
         grid.append(g)
-        grid.append(o)l
+        grid.append(o)
         
     }
     
